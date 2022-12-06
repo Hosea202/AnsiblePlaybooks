@@ -34,7 +34,7 @@
      name: jenkins
      enabled: true
     
-  - name: tart jenkins
+  - name: start jenkins
     systemd:
      name: jenkins
      state: started 
